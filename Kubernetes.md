@@ -4,7 +4,6 @@ Parent: [[040 Knowledge Store MOC]]
 # Basics
 https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
-- Containerizized software
 - Kubernetes helps you make sure your containerized applications run where and when you want, and helps them find the resources and tools they need to work
 - Basic actions:
 	- Create a Kubernetes (K8) **cluster**
